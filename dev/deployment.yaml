@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: test-app
-        image: dockerhublab/test-app:5.2
+        image: dockerhublab/test-app:5.3
         ports:
         - containerPort: 5000
